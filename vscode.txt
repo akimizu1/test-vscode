@@ -1,3 +1,4 @@
 git.code
 git command
 git reset HEAD
+git pull 
